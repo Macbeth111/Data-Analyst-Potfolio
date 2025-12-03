@@ -1,4 +1,4 @@
-# **New York City Payroll Data Cleaning Project Documentation**
+# **New York City Payroll Data Cleaning Project Documentation.**
 
 ## **Project Overview**
 This project involves cleaning and preparing New York City's payroll data for analysis. The dataset contains over 6.7 million records of city employee payroll information across multiple years. The goal is to transform raw data into a clean, structured format suitable for analysis, visualization, and reporting.
